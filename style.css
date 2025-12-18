@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(/images/Background2.png);
+    background-image: url("images/Background2.png");
     color: white;
 }
 .navbar {
@@ -76,7 +76,7 @@ body{
     border-radius:30px;
 }
 #food{
-    background : url(/images/food.png);
+    background : url("images/food.png");
     width: 500px;
     height: 500px;
     background-size: cover;
@@ -98,18 +98,18 @@ body{
     border-radius: 50%;
 }
 #food1 {
-    background: url(/images/food1.png);
+    background: url("images/food1.png");
     background-size: cover;
 }
 #food2 {
-    background: url(/images/food2.png);
+    background: url("images/food2.png");
     background-size: cover;
 }
 #food3 {
-    background: url(/images/food3.png);
+    background: url("images/food3.png");
     background-size: cover;
 }
 #food4 {
-    background: url(/images/food4.png);
+    background: url("images/food4.png");
     background-size: cover;
 }
